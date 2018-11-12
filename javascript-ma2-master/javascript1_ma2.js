@@ -9,7 +9,7 @@ function myFather(){
 };
 var olaide = new myFather();
 olaide.property();
-console.log(olaide.houses); //This line proves constructor prototype inherited.
+console.log(olaide.houses); //This line proofs constructor prototype inherited.
 
 console.log('----------------------');
 
